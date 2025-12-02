@@ -1,0 +1,130 @@
+{
+  "status": "success",
+  "report_type": "spending_by_weekday",
+  "period": {
+    "start": "2023-09-16",
+    "end": "2023-12-15",
+    "days": 90
+  },
+  "summary": {
+    "total_spent": 193525.0,
+    "average_daily_spent": 3794.607843137255,
+    "total_transactions": 51,
+    "most_expensive_day": {
+      "weekday_eng": "Tuesday",
+      "weekday_ru": "Вторник",
+      "weekday_number": 1,
+      "total_spent": 29800.0,
+      "average_spent": 4257.142857142857,
+      "median_spent": 4000.0,
+      "transaction_count": 7,
+      "transactions_per_day": 3.5
+    },
+    "least_expensive_day": {
+      "weekday_eng": "Wednesday",
+      "weekday_ru": "Среда",
+      "weekday_number": 2,
+      "total_spent": 22075.0,
+      "average_spent": 3153.5714285714284,
+      "median_spent": 1712.5,
+      "transaction_count": 7,
+      "transactions_per_day": 3.5
+    }
+  },
+  "weekday_stats": [
+    {
+      "weekday_eng": "Monday",
+      "weekday_ru": "Понедельник",
+      "weekday_number": 0,
+      "total_spent": 24975.0,
+      "average_spent": 3567.8571428571427,
+      "median_spent": 3300.0,
+      "transaction_count": 7,
+      "transactions_per_day": 3.5
+    },
+    {
+      "weekday_eng": "Tuesday",
+      "weekday_ru": "Вторник",
+      "weekday_number": 1,
+      "total_spent": 29800.0,
+      "average_spent": 4257.142857142857,
+      "median_spent": 4000.0,
+      "transaction_count": 7,
+      "transactions_per_day": 3.5
+    },
+    {
+      "weekday_eng": "Wednesday",
+      "weekday_ru": "Среда",
+      "weekday_number": 2,
+      "total_spent": 22075.0,
+      "average_spent": 3153.5714285714284,
+      "median_spent": 1712.5,
+      "transaction_count": 7,
+      "transactions_per_day": 3.5
+    },
+    {
+      "weekday_eng": "Thursday",
+      "weekday_ru": "Четверг",
+      "weekday_number": 3,
+      "total_spent": 22650.0,
+      "average_spent": 3775.0,
+      "median_spent": 3775.0,
+      "transaction_count": 6,
+      "transactions_per_day": 3.0
+    },
+    {
+      "weekday_eng": "Friday",
+      "weekday_ru": "Пятница",
+      "weekday_number": 4,
+      "total_spent": 37675.0,
+      "average_spent": 3767.5,
+      "median_spent": 3125.0,
+      "transaction_count": 10,
+      "transactions_per_day": 3.3333333333333335
+    },
+    {
+      "weekday_eng": "Saturday",
+      "weekday_ru": "Суббота",
+      "weekday_number": 5,
+      "total_spent": 27650.0,
+      "average_spent": 3950.0,
+      "median_spent": 3550.0,
+      "transaction_count": 7,
+      "transactions_per_day": 3.5
+    },
+    {
+      "weekday_eng": "Sunday",
+      "weekday_ru": "Воскресенье",
+      "weekday_number": 6,
+      "total_spent": 28700.0,
+      "average_spent": 4100.0,
+      "median_spent": 3700.0,
+      "transaction_count": 7,
+      "transactions_per_day": 3.5
+    }
+  ],
+  "insights": {
+    "busiest_day": {
+      "weekday_eng": "Friday",
+      "weekday_ru": "Пятница",
+      "weekday_number": 4,
+      "total_spent": 37675.0,
+      "average_spent": 3767.5,
+      "median_spent": 3125.0,
+      "transaction_count": 10,
+      "transactions_per_day": 3.3333333333333335
+    },
+    "most_expensive_weekday": {
+      "weekday_eng": "Tuesday",
+      "weekday_ru": "Вторник",
+      "weekday_number": 1,
+      "total_spent": 29800.0,
+      "average_spent": 4257.142857142857,
+      "median_spent": 4000.0,
+      "transaction_count": 7,
+      "transactions_per_day": 3.5
+    },
+    "total_days_analyzed": 15,
+    "average_transaction_value": 3794.607843137255
+  }
+}

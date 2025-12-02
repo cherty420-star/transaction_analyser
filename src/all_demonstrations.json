@@ -1,0 +1,529 @@
+{
+  "main_page": {
+    "status": "success",
+    "timestamp": "2025-12-02 14:22:36",
+    "data": {
+      "greeting": "Добрый день",
+      "period": {
+        "start": "2023-12-02",
+        "end": "2023-12-15",
+        "days": 14
+      },
+      "cards": {
+        "5678": {
+          "total_spent": 91550.0,
+          "cashback": 915.5,
+          "transactions_count": 28
+        },
+        "1234": {
+          "total_spent": 87850.0,
+          "cashback": 878.5,
+          "transactions_count": 28
+        }
+      },
+      "transactions": {
+        "total_count": 56,
+        "top_5": [
+          {
+            "date": "2023-12-15 00:00:00",
+            "amount": 139000.0,
+            "payment_amount": 139000.0,
+            "category": "Зарплата",
+            "description": "Транзакция 90: Зарплата",
+            "currency": "RUB"
+          },
+          {
+            "date": "2023-12-14 00:00:00",
+            "amount": 138000.0,
+            "payment_amount": 138000.0,
+            "category": "Зарплата",
+            "description": "Транзакция 89: Зарплата",
+            "currency": "RUB"
+          },
+          {
+            "date": "2023-12-13 00:00:00",
+            "amount": 137000.0,
+            "payment_amount": 137000.0,
+            "category": "Зарплата",
+            "description": "Транзакция 88: Зарплата",
+            "currency": "RUB"
+          },
+          {
+            "date": "2023-12-12 00:00:00",
+            "amount": 136000.0,
+            "payment_amount": 136000.0,
+            "category": "Зарплата",
+            "description": "Транзакция 87: Зарплата",
+            "currency": "RUB"
+          },
+          {
+            "date": "2023-12-11 00:00:00",
+            "amount": 135000.0,
+            "payment_amount": 135000.0,
+            "category": "Зарплата",
+            "description": "Транзакция 86: Зарплата",
+            "currency": "RUB"
+          }
+        ],
+        "statistics": {
+          "total_spent": 179400.0,
+          "total_income": 1215000.0,
+          "average_transaction": 18492.86,
+          "transaction_types": {
+            "expenses": 47,
+            "income": 9
+          }
+        }
+      },
+      "financial_data": {
+        "exchange_rates": {
+          "USD": 91.45,
+          "EUR": 99.12
+        },
+        "stock_prices": {
+          "AAPL": 185.64,
+          "MSFT": 370.92
+        }
+      },
+      "summary": {
+        "cards_count": 2,
+        "has_data": true,
+        "message": "Анализ за период с 02.12.2023"
+      }
+    }
+  },
+  "investment_bank": {
+    "status": "success",
+    "month": "2023-12",
+    "rounding_limit": 50,
+    "total_investment": 375.0,
+    "transactions_count": 10,
+    "transactions": [
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-01 00:00:00",
+        "description": "Транзакция 1: Супермаркеты",
+        "category": "Супермаркеты"
+      },
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-11 00:00:00",
+        "description": "Транзакция 11: Супермаркеты",
+        "category": "Супермаркеты"
+      },
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-21 00:00:00",
+        "description": "Транзакция 21: Супермаркеты",
+        "category": "Супермаркеты"
+      },
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-06 00:00:00",
+        "description": "Транзакция 31: Супермаркеты",
+        "category": "Супермаркеты"
+      },
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-16 00:00:00",
+        "description": "Транзакция 41: Супермаркеты",
+        "category": "Супермаркеты"
+      },
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-01 00:00:00",
+        "description": "Транзакция 51: Супермаркеты",
+        "category": "Супермаркеты"
+      },
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-11 00:00:00",
+        "description": "Транзакция 61: Супермаркеты",
+        "category": "Супермаркеты"
+      },
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-21 00:00:00",
+        "description": "Транзакция 71: Супермаркеты",
+        "category": "Супермаркеты"
+      },
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-06 00:00:00",
+        "description": "Транзакция 81: Зарплата",
+        "category": "Зарплата"
+      },
+      {
+        "original_amount": 1712.5,
+        "rounded_amount": 1750.0,
+        "investment": 37.5,
+        "date": "2023-12-16 00:00:00",
+        "description": "Транзакция 91: Зарплата",
+        "category": "Зарплата"
+      }
+    ],
+    "statistics": {
+      "avg_investment_per_transaction": 37.5,
+      "max_investment": 37.5
+    }
+  },
+  "simple_search": {
+    "status": "success",
+    "query": "Супермаркеты",
+    "count": 16,
+    "results": [
+      {
+        "date": "2023-12-21 00:00:00",
+        "amount": -1712.5,
+        "category": "Супермаркеты",
+        "description": "Транзакция 21: Супермаркеты",
+        "card": "1234",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-21 00:00:00",
+        "amount": -4850.0,
+        "category": "Супермаркеты",
+        "description": "Транзакция 46: Супермаркеты",
+        "card": "5678",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-21 00:00:00",
+        "amount": -1712.5,
+        "category": "Супермаркеты",
+        "description": "Транзакция 71: Супермаркеты",
+        "card": "1234",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-16 00:00:00",
+        "amount": -1850.0,
+        "category": "Супермаркеты",
+        "description": "Транзакция 16: Супермаркеты",
+        "card": "5678",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-16 00:00:00",
+        "amount": -1712.5,
+        "category": "Супермаркеты",
+        "description": "Транзакция 41: Супермаркеты",
+        "card": "1234",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-16 00:00:00",
+        "amount": -6850.0,
+        "category": "Супермаркеты",
+        "description": "Транзакция 66: Супермаркеты",
+        "card": "5678",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-11 00:00:00",
+        "amount": -1712.5,
+        "category": "Супермаркеты",
+        "description": "Транзакция 11: Супермаркеты",
+        "card": "1234",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-11 00:00:00",
+        "amount": -3850.0,
+        "category": "Супермаркеты",
+        "description": "Транзакция 36: Супермаркеты",
+        "card": "5678",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-11 00:00:00",
+        "amount": -1712.5,
+        "category": "Супермаркеты",
+        "description": "Транзакция 61: Супермаркеты",
+        "card": "1234",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-06 00:00:00",
+        "amount": -850.0,
+        "category": "Супермаркеты",
+        "description": "Транзакция 6: Супермаркеты",
+        "card": "5678",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-06 00:00:00",
+        "amount": -1712.5,
+        "category": "Супермаркеты",
+        "description": "Транзакция 31: Супермаркеты",
+        "card": "1234",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-06 00:00:00",
+        "amount": -5850.0,
+        "category": "Супермаркеты",
+        "description": "Транзакция 56: Супермаркеты",
+        "card": "5678",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-01 00:00:00",
+        "amount": -1712.5,
+        "category": "Супермаркеты",
+        "description": "Транзакция 1: Супермаркеты",
+        "card": "1234",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-01 00:00:00",
+        "amount": -2850.0,
+        "category": "Супермаркеты",
+        "description": "Транзакция 26: Супермаркеты",
+        "card": "5678",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-01 00:00:00",
+        "amount": -1712.5,
+        "category": "Супермаркеты",
+        "description": "Транзакция 51: Супермаркеты",
+        "card": "1234",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      },
+      {
+        "date": "2023-12-01 00:00:00",
+        "amount": -7850.0,
+        "category": "Супермаркеты",
+        "description": "Транзакция 76: Супермаркеты",
+        "card": "5678",
+        "status": "OK",
+        "matches": [
+          "description",
+          "category"
+        ]
+      }
+    ],
+    "search_info": {
+      "search_fields": [
+        "description",
+        "category",
+        "mcc"
+      ],
+      "case_sensitive": false,
+      "timestamp": "2025-12-02 14:22:36"
+    }
+  },
+  "weekday_report": {
+    "status": "success",
+    "report_type": "spending_by_weekday",
+    "period": {
+      "start": "2023-09-16",
+      "end": "2023-12-15",
+      "days": 90
+    },
+    "summary": {
+      "total_spent": 193525.0,
+      "average_daily_spent": 3794.607843137255,
+      "total_transactions": 51,
+      "most_expensive_day": {
+        "weekday_eng": "Tuesday",
+        "weekday_ru": "Вторник",
+        "weekday_number": 1,
+        "total_spent": 29800.0,
+        "average_spent": 4257.142857142857,
+        "median_spent": 4000.0,
+        "transaction_count": 7,
+        "transactions_per_day": 3.5
+      },
+      "least_expensive_day": {
+        "weekday_eng": "Wednesday",
+        "weekday_ru": "Среда",
+        "weekday_number": 2,
+        "total_spent": 22075.0,
+        "average_spent": 3153.5714285714284,
+        "median_spent": 1712.5,
+        "transaction_count": 7,
+        "transactions_per_day": 3.5
+      }
+    },
+    "weekday_stats": [
+      {
+        "weekday_eng": "Monday",
+        "weekday_ru": "Понедельник",
+        "weekday_number": 0,
+        "total_spent": 24975.0,
+        "average_spent": 3567.8571428571427,
+        "median_spent": 3300.0,
+        "transaction_count": 7,
+        "transactions_per_day": 3.5
+      },
+      {
+        "weekday_eng": "Tuesday",
+        "weekday_ru": "Вторник",
+        "weekday_number": 1,
+        "total_spent": 29800.0,
+        "average_spent": 4257.142857142857,
+        "median_spent": 4000.0,
+        "transaction_count": 7,
+        "transactions_per_day": 3.5
+      },
+      {
+        "weekday_eng": "Wednesday",
+        "weekday_ru": "Среда",
+        "weekday_number": 2,
+        "total_spent": 22075.0,
+        "average_spent": 3153.5714285714284,
+        "median_spent": 1712.5,
+        "transaction_count": 7,
+        "transactions_per_day": 3.5
+      },
+      {
+        "weekday_eng": "Thursday",
+        "weekday_ru": "Четверг",
+        "weekday_number": 3,
+        "total_spent": 22650.0,
+        "average_spent": 3775.0,
+        "median_spent": 3775.0,
+        "transaction_count": 6,
+        "transactions_per_day": 3.0
+      },
+      {
+        "weekday_eng": "Friday",
+        "weekday_ru": "Пятница",
+        "weekday_number": 4,
+        "total_spent": 37675.0,
+        "average_spent": 3767.5,
+        "median_spent": 3125.0,
+        "transaction_count": 10,
+        "transactions_per_day": 3.3333333333333335
+      },
+      {
+        "weekday_eng": "Saturday",
+        "weekday_ru": "Суббота",
+        "weekday_number": 5,
+        "total_spent": 27650.0,
+        "average_spent": 3950.0,
+        "median_spent": 3550.0,
+        "transaction_count": 7,
+        "transactions_per_day": 3.5
+      },
+      {
+        "weekday_eng": "Sunday",
+        "weekday_ru": "Воскресенье",
+        "weekday_number": 6,
+        "total_spent": 28700.0,
+        "average_spent": 4100.0,
+        "median_spent": 3700.0,
+        "transaction_count": 7,
+        "transactions_per_day": 3.5
+      }
+    ],
+    "insights": {
+      "busiest_day": {
+        "weekday_eng": "Friday",
+        "weekday_ru": "Пятница",
+        "weekday_number": 4,
+        "total_spent": 37675.0,
+        "average_spent": 3767.5,
+        "median_spent": 3125.0,
+        "transaction_count": 10,
+        "transactions_per_day": 3.3333333333333335
+      },
+      "most_expensive_weekday": {
+        "weekday_eng": "Tuesday",
+        "weekday_ru": "Вторник",
+        "weekday_number": 1,
+        "total_spent": 29800.0,
+        "average_spent": 4257.142857142857,
+        "median_spent": 4000.0,
+        "transaction_count": 7,
+        "transactions_per_day": 3.5
+      },
+      "total_days_analyzed": 15,
+      "average_transaction_value": 3794.607843137255
+    },
+    "report_file": "report_spending_by_weekday_20251202_142236.json",
+    "generated_at": "2025-12-02 14:22:36"
+  },
+  "generated_at": "2025-12-02 14:22:36"
+}
